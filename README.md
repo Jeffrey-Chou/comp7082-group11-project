@@ -1,2 +1,4 @@
-# comp7082-group11-project
+# Crossdeals
 Intro to Software Engineering Project
+
+Jeffrey Chou
